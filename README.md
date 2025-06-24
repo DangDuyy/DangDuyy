@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm duii</h1>
-<h3 align="center">A nood web developer from VietNam</h3>
+<h3 align="center">A noob web developer from VietNam</h3>
 
 - 🌱 I’m currently learning **React, Node**
 
