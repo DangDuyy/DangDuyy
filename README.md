@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm duii</h1>
-<h3 align="center">kekeke</h3>
+<h1 align="center">Hi 👋, I'm Đặng Đăng Duy</h1>
 
 - 🌱 I’m currently learning **React, Node**
 
