@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dang Duy</h1>
 <h3 align="center">A web developer from SaDeccc</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dangduyy&label=Profile%20views&color=0e75b6&style=flat" alt="dangduyy" /> </p>
-
 - 🌱 I’m currently learning **React, Node**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DangDuyy](https://github.com/DangDuyy)
