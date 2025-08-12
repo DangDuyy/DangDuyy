@@ -113,3 +113,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dangduyy&show_icons=true&locale=en" alt="dangduyy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangduyy&" alt="dangduyy" /></p>
+
+<br/><br/>
+
+### 🐍 Snake eating my contributions
+![snake svg](https://raw.githubusercontent.com/DangDuyy/DangDuyy/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake svg](https://raw.githubusercontent.com/DangDuyy/DangDuyy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
