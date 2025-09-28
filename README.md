@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dang Duy</h1>
-<h3 align="center">A developer from SaDeccc 😎</h3>
+<h3 align="center">A developer from SaDec 😎</h3>
 
 <br/>
 
